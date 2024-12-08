@@ -216,12 +216,21 @@ h6,
 
 
 /*** Carousel ***/
+.carousel-caption1 {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgb(12 73 112);
+    z-index: 1;
+}
 .carousel-caption {
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(9, 30, 62, .7);
+    /* background: rgba(9, 30, 62, .7); */
+    /* background: rgba(6 163 218); */
     z-index: 1;
 }
 
